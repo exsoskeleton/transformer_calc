@@ -1,6 +1,6 @@
 {
-    "name": "newcalculator",
-    "short_name": "newcalculator",
+    "name": "transformer_calculator",
+    "short_name": "transformer_calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
